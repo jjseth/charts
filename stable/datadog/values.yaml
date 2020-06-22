@@ -23,7 +23,7 @@ datadog:
   ## Set this to your Datadog API key before the Agent runs.
   ## ref: https://app.datadoghq.com/account/settings#agent/kubernetes
   #
-  apiKey: <DATADOG_API_KEY>
+  apiKey: "fe5602c7286d6951cdfcf4c652f8dbf8"
 
   ## @param apiKeyExistingSecret - string - optional
   ## Use existing Secret which stores API key instead of creating a new one.
